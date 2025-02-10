@@ -1,8 +1,9 @@
 {
-  "name": "parsia-theme",
-  "displayName": "parsia-theme",
+  "name": "nax-theme",
+  "displayName": "nax-theme",
   "description": "Parsia is a theme includes iranian colors",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "nafasebra",
   "engines": {
     "vscode": "^1.96.0"
   },
@@ -12,9 +13,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "parsia-theme",
+        "label": "nax-theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/parsia-theme-color-theme.json"
+        "path": "./themes/nax-theme-color-theme.json"
       }
     ]
   }

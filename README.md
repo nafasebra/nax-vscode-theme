@@ -1,4 +1,4 @@
-# parsia-theme README
+# nax-theme README
 
 ## Working with Markdown
 
